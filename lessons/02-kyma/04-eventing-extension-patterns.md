@@ -1,5 +1,17 @@
 # Lesson 2.4 — Kyma Eventing & Extension Patterns
 
+## Table of Contents
+
+- [1. Side-by-Side Extension Model](#1-side-by-side-extension-model)
+- [2. S/4HANA Event Integration](#2-s4hana-event-integration)
+- [3. Extension Patterns](#3-extension-patterns)
+- [4. Resilience Patterns](#4-resilience-patterns)
+- [5. Event Processing Best Practices](#5-event-processing-best-practices)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** SAP's recommended approach for extending S/4HANA and other SAP systems is "side-by-side" extensions on BTP — keeping the clean core clean while building custom logic externally. Kyma provides the eventing infrastructure and runtime for these extensions. This lesson covers the side-by-side extension model, event-driven architecture patterns, S/4HANA event integration, and production-ready extension design.
 
 ---

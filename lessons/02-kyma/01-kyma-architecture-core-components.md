@@ -1,5 +1,17 @@
 # Lesson 2.1 — Kyma Architecture & Core Components
 
+## Table of Contents
+
+- [1. Kyma vs Vanilla Kubernetes](#1-kyma-vs-vanilla-kubernetes)
+- [2. Kyma Cluster Architecture](#2-kyma-cluster-architecture)
+- [3. Istio Service Mesh in Kyma](#3-istio-service-mesh-in-kyma)
+- [4. Kyma API Gateway](#4-kyma-api-gateway)
+- [5. Kyma Eventing](#5-kyma-eventing)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** SAP Kyma Runtime is a managed Kubernetes offering on BTP that adds an opinionated layer of components — Istio service mesh, NATS-based eventing, API Gateway, and the BTP Operator — on top of a standard K8s cluster. This lesson covers what Kyma adds versus vanilla Kubernetes, the modular architecture, Istio internals, API Gateway configuration, and eventing infrastructure.
 
 ---

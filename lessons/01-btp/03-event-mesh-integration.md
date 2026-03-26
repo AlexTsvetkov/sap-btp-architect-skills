@@ -1,5 +1,17 @@
 # Lesson 1.3 — BTP Event Mesh & Integration
 
+## Table of Contents
+
+- [1. SAP Event Mesh Architecture](#1-sap-event-mesh-architecture)
+- [2. CloudEvents Specification](#2-cloudevents-specification)
+- [3. Enterprise Messaging Patterns](#3-enterprise-messaging-patterns)
+- [4. Integration Suite vs Event Mesh](#4-integration-suite-vs-event-mesh)
+- [5. Implementing an Event-Driven CAP Java Microservice](#5-implementing-an-event-driven-cap-java-microservice)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** Event-driven architecture on SAP BTP centers on SAP Event Mesh — a fully managed messaging service that implements the CloudEvents specification and integrates natively with S/4HANA business events. This lesson covers Event Mesh internals, messaging patterns, comparison with Kafka/RabbitMQ, SAP Integration Suite positioning, and a hands-on implementation of an event-driven CAP Java microservice.
 
 ---

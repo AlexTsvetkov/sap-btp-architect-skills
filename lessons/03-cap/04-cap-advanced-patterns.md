@@ -1,5 +1,17 @@
 # Lesson 3.4 — CAP Advanced Patterns & Production Readiness
 
+## Table of Contents
+
+- [1. Draft Handling](#1-draft-handling)
+- [2. Localization (i18n)](#2-localization-i18n)
+- [3. Temporal Data & Audit Logging](#3-temporal-data-audit-logging)
+- [4. Deployment Topologies](#4-deployment-topologies)
+- [5. Performance Optimization](#5-performance-optimization)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** Production CAP Java applications require mastering draft handling for Fiori UIs, localization/i18n, temporal data, deployment topologies (MTA vs Helm), and performance optimization. This lesson covers these advanced patterns with practical examples and configuration.
 
 ---

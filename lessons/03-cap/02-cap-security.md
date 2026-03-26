@@ -1,5 +1,17 @@
 # Lesson 3.2 — CAP Security, Authorization & Authentication
 
+## Table of Contents
+
+- [1. Authentication Architecture](#1-authentication-architecture)
+- [2. CDS-Based Authorization](#2-cds-based-authorization)
+- [3. Programmatic Authorization](#3-programmatic-authorization)
+- [4. Multi-Tenant Security](#4-multi-tenant-security)
+- [5. Testing with Mock Users](#5-testing-with-mock-users)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** CAP Java integrates with SAP XSUAA and IAS for authentication and provides a declarative authorization model via CDS annotations (`@requires`, `@restrict`). This lesson covers the authentication flow, CDS-based authorization, instance-based authorization, programmatic security, multi-tenant security concerns, and testing with mock users.
 
 ---

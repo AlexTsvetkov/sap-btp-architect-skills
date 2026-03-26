@@ -1,5 +1,17 @@
 # Lesson 2.2 — Deploying Java Microservices on Kyma
 
+## Table of Contents
+
+- [1. Containerizing a Spring Boot / CAP Java Application](#1-containerizing-a-spring-boot-cap-java-application)
+- [2. Helm Chart Structure](#2-helm-chart-structure)
+- [3. Service Credential Consumption](#3-service-credential-consumption)
+- [4. Health Probes and Graceful Shutdown](#4-health-probes-and-graceful-shutdown)
+- [5. Deployment Commands](#5-deployment-commands)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** Deploying Java applications on Kyma requires Docker containerization, Helm chart packaging, BTP service binding via the BTP Operator, and production-hardening with health probes, resource limits, and HPA. This lesson walks through the full deployment lifecycle — from Dockerfile to production-ready Helm chart — with comparisons to Cloud Foundry deployment patterns.
 
 ---

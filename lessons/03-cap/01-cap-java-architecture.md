@@ -1,5 +1,17 @@
 # Lesson 3.1 — CAP Java Architecture & Core Concepts
 
+## Table of Contents
+
+- [1. CAP Java Architecture Overview](#1-cap-java-architecture-overview)
+- [2. CDS Compilation Pipeline](#2-cds-compilation-pipeline)
+- [3. Event Handler Model](#3-event-handler-model)
+- [4. CQN Query API](#4-cqn-query-api)
+- [5. Project Structure](#5-project-structure)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** The SAP Cloud Application Programming Model (CAP) for Java provides a framework built on Spring Boot that adds CDS-based domain modeling, a generic runtime for OData/REST services, an event-driven handler model, and built-in BTP service integration. This lesson covers the CAP Java architecture, CDS compilation pipeline, the event/handler model, CQN query API, and how CAP compares to pure Spring Boot development.
 
 ---

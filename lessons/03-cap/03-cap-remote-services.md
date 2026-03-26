@@ -1,5 +1,17 @@
 # Lesson 3.3 — CAP Remote Services & Mashups
 
+## Table of Contents
+
+- [1. Remote Service Architecture](#1-remote-service-architecture)
+- [2. Importing External Service Definitions](#2-importing-external-service-definitions)
+- [3. Destination Configuration](#3-destination-configuration)
+- [4. Consuming Remote Services in Handlers](#4-consuming-remote-services-in-handlers)
+- [5. Error Handling & Resilience](#5-error-handling-resilience)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** CAP Java supports integrating external services — S/4HANA OData APIs, REST APIs, and other CAP services — as "remote services" defined in CDS. This enables mashup scenarios where your application combines local data with remote data, projecting external entities alongside your own. This lesson covers importing external APIs, the Destination Service, remote service consumption, mashup patterns, and error handling.
 
 ---

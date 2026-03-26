@@ -1,5 +1,17 @@
 # Lesson 1.1 — SAP BTP Architecture & Runtime Model
 
+## Table of Contents
+
+- [1. Multi-Environment Architecture](#1-multi-environment-architecture)
+- [2. Subaccount, Directory, and Entitlement Hierarchy](#2-subaccount-directory-and-entitlement-hierarchy)
+- [3. BTP Service Marketplace & Open Service Broker API](#3-btp-service-marketplace--open-service-broker-api)
+- [4. BTP Connectivity: Cloud Connector & Destinations](#4-btp-connectivity-cloud-connector--destinations)
+- [5. BTP Security Model — XSUAA Internals](#5-btp-security-model--xsuaa-internals)
+- [Top 5 Pitfalls for Java Developers on BTP](#top-5-pitfalls-for-java-developers-on-btp)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** SAP Business Technology Platform (BTP) is a PaaS offering that hosts three distinct runtime environments — Cloud Foundry, Kyma (Kubernetes), and ABAP — under a unified commercial and governance model. Understanding BTP's internal structure is critical for Java architects because it dictates how services are consumed, how security tokens flow, and how on-premise connectivity works. This lesson dissects BTP's architecture layer by layer, from the organizational hierarchy down to the VCAP_SERVICES binding mechanism.
 
 ---

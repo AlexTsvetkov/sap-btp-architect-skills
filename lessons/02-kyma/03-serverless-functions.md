@@ -1,5 +1,17 @@
 # Lesson 2.3 — Kyma Serverless Functions
 
+## Table of Contents
+
+- [1. Functions vs Microservices: Decision Framework](#1-functions-vs-microservices-decision-framework)
+- [2. Function CRD](#2-function-crd)
+- [3. Binding BTP Services to Functions](#3-binding-btp-services-to-functions)
+- [4. Event-Triggered Functions](#4-event-triggered-functions)
+- [5. Practical Patterns](#5-practical-patterns)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** Kyma Serverless Functions provide a lightweight, event-driven compute model for simple tasks — webhook handlers, data transformations, event processors — without the overhead of building Docker images and Helm charts. This lesson covers when to use functions vs microservices, the Function CRD, runtime environments, BTP service binding, and practical patterns.
 
 ---

@@ -1,5 +1,17 @@
 # Lesson 1.4 — BTP Multi-Tenancy
 
+## Table of Contents
+
+- [1. BTP Multi-Tenancy Model](#1-btp-multi-tenancy-model)
+- [2. Tenant Isolation Patterns](#2-tenant-isolation-patterns)
+- [3. XSUAA in Multi-Tenant Context](#3-xsuaa-in-multi-tenant-context)
+- [4. CAP Multi-Tenancy Support (@sap/cds-mtxs)](#4-cap-multi-tenancy-support-sapcds-mtxs)
+- [5. Operational Concerns](#5-operational-concerns)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** Multi-tenancy on SAP BTP enables building SaaS applications where a single deployment serves multiple customers (tenants) with data isolation, independent configuration, and per-tenant extensibility. This lesson covers the BTP multi-tenancy lifecycle, tenant isolation patterns, XSUAA identity zones, CAP's MTX framework, and operational concerns — compared with Spring Boot / Hibernate multi-tenancy patterns.
 
 ---

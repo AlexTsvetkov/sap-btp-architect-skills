@@ -1,5 +1,18 @@
 # Lesson 1.2 — SAP HANA Cloud Deep Dive
 
+## Table of Contents
+
+- [1. HANA Cloud vs On-Premise HANA](#1-hana-cloud-vs-on-premise-hana)
+- [2. HANA Multi-Model Engine](#2-hana-multi-model-engine)
+- [3. HDI (HANA Deployment Infrastructure)](#3-hdi-hana-deployment-infrastructure)
+- [4. Connectivity from CF / Kyma Applications](#4-connectivity-from-cf-kyma-applications)
+- [5. Performance Tuning](#5-performance-tuning)
+- [Comparison with PostgreSQL / MySQL](#comparison-with-postgresql-mysql)
+- [Top 5 Pitfalls](#top-5-pitfalls)
+- [What to Learn Next](#what-to-learn-next)
+
+---
+
 > **Summary:** SAP HANA Cloud is a columnar, in-memory relational database offered as a managed service on BTP. For Java architects coming from PostgreSQL or MySQL, the paradigm shift is significant: HANA's column store, multi-model engines (document, graph, spatial), and HDI deployment model all require new mental models. This lesson covers HANA Cloud internals, the HDI container architecture, connectivity patterns from CF/Kyma, and performance tuning strategies — all compared against familiar RDBMS concepts.
 
 ---
